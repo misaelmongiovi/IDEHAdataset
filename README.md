@@ -4,6 +4,7 @@
 ### Table of contents
 * [General Information](#general-information)
 * [Data](#data)
+* [Details](#details)
 * [License](#license)
 
 ### General Information
